@@ -1,0 +1,12 @@
+/* Basic clean dark styling */
+body {
+    background-color: #111 !important;
+}
+
+h1, h2, h3, h4, p, div {
+    color: white !important;
+}
+
+.sidebar .sidebar-content {
+    background-color: #1e1e1e !important;
+}
